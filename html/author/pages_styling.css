@@ -1,0 +1,21 @@
+    .add-post {
+         
+           background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: 100px auto;
+            max-width: 900px; 
+           
+    
+
+
+          
+        }
+       .main{
+background-color: #f7f7f7;
+        }
+        #body {
+            resize: none;
+        }
+       
